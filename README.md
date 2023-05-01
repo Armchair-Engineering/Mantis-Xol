@@ -18,6 +18,7 @@ https://discord.gg/armchairengineeringsux
  - No inserts. No worries about thermal deformation.
  - Support for Sherpa Mini-pattern extruder mounting.
  - Symmetrical ziptie options.
+ - Printed holes are already tap size.
  - Support for Whoppingpochard's Klicky PCB and bacon, but hardpoints on the bottom of the carriage allow for a modular approach to probing.
  - Top hardpoints and pockets allow development of custom tophats for your toolhead. Umbilical? Sure. Mantis tophat to bolt more stuff to your toolhead?   Sure.
  - Cross-compatibility with most of the XOL2 printed parts. YOu can combine metal hotend mount with a printed carriage, vice-versa, use printed ducts, printed faceplates, LED holder, nozzle camer amounts. 
