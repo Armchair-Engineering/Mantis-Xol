@@ -1,4 +1,4 @@
-# SLMantis Xol 2 ALuminum Boogaloo (Slimfast)
+# SLMantis Xol 2 Aluminum Boogaloo (Slimfast)
 ![image](https://cdn.discordapp.com/attachments/929168771216723968/1020895467674026024/unknown.png)
 
 ## Description
