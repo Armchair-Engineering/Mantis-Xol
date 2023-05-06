@@ -1,5 +1,5 @@
 # SLMantis Xol 2 Aluminum Boogaloo (Slimfast)
-![image](https://cdn.discordapp.com/attachments/929168771216723968/1020895467674026024/unknown.png)
+![image](https://github.com/AlpineWhite/Mantis-Xol2_SLM_Boogaloo/blob/main/Images/Untitled%20Project%20(2).jpg)
 
 ## Description
 Originally a project to slap 5020 blower fans onto Mantis, this toolhead variant started as an attempt to improve parts cooling, spurred on by Derpimus' noted cooling woes on his DOOMCube. After finding that the 5020s were just plain too fat to fit without looking like a standard Ender 3 Thingiverse special, I abandoned the large fan dream in favor of better cooling efficiency and lighter weight. This new and improved dream was also corrupted by my then budding and now all-consuming love for worm gears.
